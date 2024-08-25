@@ -1,2 +1,3 @@
 second message
-this is ajmal
+this is Ajmal
+GitHub first commit made
